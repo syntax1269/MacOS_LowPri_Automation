@@ -1,3 +1,4 @@
+> **⚠️ Disclaimer:** This setting is undocumented and intended for debugging. Modifying system behavior can have unintended consequences. Proceed with caution and monitor your system's temperature and performance. This script and it's actions are at your own risk and not responsible for any damage resulting from the use of this script. Extensive testing has been done to ensure proper operation and this script simply automates enabling and disabling.
 
 
 
